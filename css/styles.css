@@ -47,6 +47,7 @@ h1 {
   font-size: 8rem;
   font-family: 'Cookie', cursive;
   text-shadow: 0 4px 8px rgba(0,0,0,.3);
+  white-space: nowrap;
 }
 
 h2 {
